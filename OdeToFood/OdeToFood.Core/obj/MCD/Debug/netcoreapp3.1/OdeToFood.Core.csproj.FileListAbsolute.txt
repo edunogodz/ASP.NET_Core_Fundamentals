@@ -1,0 +1,9 @@
+C:\Sistemas\Pluralsight\OdeToFood\OdeToFood\OdeToFood.Core\bin\MCD\Debug\netcoreapp3.1\OdeToFood.Core.deps.json
+C:\Sistemas\Pluralsight\OdeToFood\OdeToFood\OdeToFood.Core\bin\MCD\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Sistemas\Pluralsight\OdeToFood\OdeToFood\OdeToFood.Core\bin\MCD\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Sistemas\Pluralsight\OdeToFood\OdeToFood\OdeToFood.Core\obj\MCD\Debug\netcoreapp3.1\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Sistemas\Pluralsight\OdeToFood\OdeToFood\OdeToFood.Core\obj\MCD\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Sistemas\Pluralsight\OdeToFood\OdeToFood\OdeToFood.Core\obj\MCD\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Sistemas\Pluralsight\OdeToFood\OdeToFood\OdeToFood.Core\obj\MCD\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Sistemas\Pluralsight\OdeToFood\OdeToFood\OdeToFood.Core\obj\MCD\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Sistemas\Pluralsight\OdeToFood\OdeToFood\OdeToFood.Core\obj\MCD\Debug\netcoreapp3.1\OdeToFood.Core.pdb
